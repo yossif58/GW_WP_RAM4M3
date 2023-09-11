@@ -1,0 +1,13 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\;C:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.busybox.win32.x86_64_1.3.5.v20220125-0945\bin\;C:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.gnumake.win32.x86_64_4.3.0.v20220121-1024\mk\;C:/Renesas/e2_studio/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.14.v20220314-1349/jre/bin/server;C:/Renesas/e2_studio/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.14.v20220314-1349/jre/bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\srecord;C:\Users\Yossi.f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q3\bin;C:\Program Files (x86) \PuTTY\;C:\Program Files (x86)\VMware;"C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\python.exe;C:\srecord;C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;;C:\Renesas\e2_studio\eclipse
+export TCINSTALL=C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10$(call arg1,\)
+export CWD=$(CURDIR)
+export AMS_LICENSE_PATH=
+export TC_VERSION=10.3.1.20210824
+export AMS_KEEP_FILE=false
+export PWD=$(CURDIR)
+export GCC_VERSION=10.3.1
