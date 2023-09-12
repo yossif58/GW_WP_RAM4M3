@@ -1,0 +1,9 @@
+ql_network_register_wait
+ql_set_data_call_asyn_mode
+ql_start_data_call
+ql_get_data_call_info
+ql_stop_data_call
+ql_datacall_register_cb   // not exist in soket see why?
+ql_datacall_unregister_cb   // at exit from 
+ql_datacall_set_dns_addr  // apears only in socket demo not shure I need it
+ql_datacall_get_dns_addr   // apears only in socket demo not shure I need it

@@ -1,0 +1,730 @@
+
+C:\ecn200u\prebuilts\win32\bin; C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\srecord;C:\Users\Yossi.f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;"C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\python.exe;C:\srecord;C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;
+
+"step 1"
+"step 2"
+"step 3"
+"step 4"
+components\ql-kernel\modem\ims\cn
+"step 5"
+"step 6"\bin
+"step 7"
+"step 8"
+"step 9"
+"step 10"
+cleaning...
+
+
+cleaning done
+
+ECHO is off.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+components\ql-config\build\EC200UCN_AA\ql_libs\libql_at.a
+1 File(s) copied
+
+C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\prebuilts\win32\bin; C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\srecord;C:\Users\Yossi.f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;"C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\python.exe;C:\srecord;C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;
+
+-- Could NOT find Git (missing: GIT_EXECUTABLE) 
+-- QL_APP_FEATURE_FTP ON
+-- QL_APP_FEATURE_HTTP ON
+-- FEATURE MMS is disabled at core!
+-- QL_APP_FEATURE_MMS OFF
+-- QL_APP_FEATURE_MQTT ON
+-- FIREWALL is disabled at core!
+-- QL_APP_FEATURE_FIREWALL OFF
+-- QL_APP_FEATURE_SSL ON
+-- QL_APP_FEATURE_PING ON
+-- QL_APP_FEATURE_NTP ON
+-- QL_APP_FEATURE_ALI_LINKSDK ON
+-- QL_APP_FEATURE_QCLOUD_IOT ON
+-- QL_APP_FEATURE_LBS ON
+-- FEATURE QTHSDK is disabled at core!
+-- QL_APP_FEATURE_QTHSDK OFF
+-- QL_APP_FEATURE_SOCKET ON
+-- FEATURE ALIOTSMARTCARD is disabled at core!
+-- QL_APP_FEATURE_ALIOTSMARTCARD OFF
+-- FEATURE CTSREG is disabled at core!
+-- QL_APP_FEATURE_CTSREG OFF
+-- QL_APP_FEATURE_FILE ON
+-- FEATURE FILE_ZIP is disabled at core!
+-- QL_APP_FEATURE_FILE_ZIP OFF
+-- QL_APP_FEATURE_AUDIO ON
+-- QL_APP_FEATURE_AUDIO_RECORD ON
+-- FEATURE HEADSET_DET is disabled at core!
+-- QL_APP_FEATURE_HEADSET_DET OFF
+-- QL_APP_FEATURE_TTS ON
+-- QL_APP_FEATURE_EXT_CODEC ON
+-- QL_APP_FEATURE_WIFISCAN ON
+-- QL_APP_FEATURE_BT ON
+-- QL_APP_FEATURE_BT_HFP ON
+-- FEATURE BT A2DP & AVRCP is disabled at core!
+-- QL_APP_FEATURE_BT_A2DP_AVRCP OFF
+-- QL_APP_FEATURE_BLE_GATT ON
+-- QL_APP_FEATURE_GNSS ON
+-- QL_APP_FEATURE_LCD ON
+-- QL_APP_FEATURE_LVGL ON
+-- FEATURE MIPI LCD is disabled at core!
+-- QL_APP_FEATURE_MIPI_LCD OFF
+-- QL_APP_FEATURE_CAMERA ON
+-- QL_APP_FEATURE_SIM ON
+-- FEATURE DOUBLE SIM is disabled at core!
+-- QL_APP_FEATURE_DSIM OFF
+-- FEATURE DSSS is disabled at core!
+-- QL_APP_FEATURE_DSSS OFF
+-- FEATURE PBK is disabled at core!
+-- QL_APP_FEATURE_PBK OFF
+-- QL_APP_FEATURE_SMS ON
+-- QL_APP_FEATURE_VOICE_CALL ON
+-- FEATURE VoLTE is disabled at core!
+-- QL_APP_FEATURE_VOLTE OFF
+-- QL_APP_FEATURE_SPI ON
+-- QL_APP_FEATURE_SPI_NOR_FLASH ON
+-- FEATURE SPI4_EXT_NOR_SFFS is disabled at core!
+-- QL_APP_FEATURE_SPI4_EXT_NOR_SFFS OFF
+-- QL_APP_FEATURE_SPI6_EXT_NOR ON
+-- QL_APP_FEATURE_SPI_NAND_FLASH ON
+-- QL_APP_FEATURE_UART ON
+-- QL_APP_FEATURE_RS485 ON
+-- QL_APP_FEATURE_LEDCFG ON
+-- QL_APP_FEATURE_KEYPAD ON
+-- QL_APP_FEATURE_DECODER ON
+-- QL_APP_FEATURE_RTC ON
+-- QL_APP_FEATURE_SECURE_BOOT OFF
+-- QL_APP_FEATURE_USB_CHARGE ON
+-- QL_APP_FEATURE_VIRT_AT ON
+-- QL_APP_FEATURE_I2C ON
+-- QL_APP_FEATURE_USB ON
+-- QL_APP_FEATURE_HTTP_FOTA ON
+-- QL_APP_FEATURE_FTP_FOTA ON
+-- FEATURE JAMDET is disabled at core!
+-- QL_APP_FEATURE_JAMDET OFF
+-- QL_APP_FEATURE_SDMMC ON
+-- QL_APP_FEATURE_PWK ON
+-- FEATURE USBNET is disabled at core!
+-- QL_APP_FEATURE_USBNET OFF
+-- FEATURE FS_NAND_FLASH is disabled at core!
+-- QL_APP_FEATURE_FS_NAND_FLASH OFF
+-- FEATURE SFTP is disabled at core!
+-- QL_APP_FEATURE_SFTP OFF
+-- QL_APP_FEATURE_MXML ON
+-- FEATURE EMBED NOR FLASH is disabled at core!
+-- QL_APP_FEATURE_EMBED_NOR_FLASH OFF
+-- FEATURE CLOUDOTA is disabled at core!
+-- QL_APP_FEATURE_CLOUDOTA OFF
+-- QL_APP_FEATURE_HILINK ON
+-- FEATURE GPRS_DATA_TRANSFER is disabled at core!
+-- QL_APP_FEATURE_GPRS_DATA_TRANSFER OFF
+-- QL_APP_FEATURE_PSM ON
+-- FEATURE TP  is disabled at core!
+-- QL_APP_FEATURE_TP  OFF
+-- FEATURE ALIPAY_IOT_SDK is disabled at core!
+-- QL_APP_FEATURE_ALIPAY_IOT_SDK OFF
+-- FEATURE MAYILIAN  is disabled at core!
+-- QL_APP_FEATURE_MAYILIAN  OFF
+-- QL_APP_PACK_FILE ON @ components/ql-config/download/prepack/ql_prepack_tts_gps.json
+-- The C compiler identification is GNU 7.2.1
+-- The CXX compiler identification is GNU 7.2.1
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/ecn200u/prebuilts/win32/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/ecn200u/out/8915DM_cat1_open_release
+
+[1/516] Building C object components/bootloader/CMakeFiles/boot_ldscript.dir/ldscripts/ramrun_uimage_arm.ld.obj
+[2/516] Building C object components/bootloader/CMakeFiles/boot2_ldscript.dir/ldscripts/ramrun_uimage_arm.ld.obj
+[3/516] Building C object components/bootloader/CMakeFiles/fdl2_ldscript.dir/ldscripts/ramrun_uimage_arm.ld.obj
+[4/516] Building C object components/bootloader/CMakeFiles/flash_test_fdl_ldscript.dir/ldscripts/ramrun_uimage_arm.ld.obj
+[5/516] Building C object components/bootloader/CMakeFiles/fdl1_ldscript.dir/ldscripts/ramrun_uimage_arm.ld.obj
+[6/516] Building ASM object components/fs/fsmount/CMakeFiles/fs_partinfo.dir/partinfo.bin.S.obj
+[7/516] Building C object components/fs/fsmount/CMakeFiles/fs_partinfo.dir/src/ql_fs_part_info.c.obj
+[8/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/mbed_aesni.c.obj
+[9/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/arc4.c.obj
+[10/516] Linking C static library lib\libfs_partinfo.a
+[11/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/aria.c.obj
+[12/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/asn1parse.c.obj
+[13/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/asn1write.c.obj
+[14/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/base64.c.obj
+[15/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/mbed_aes.c.obj
+[16/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/chachapoly.c.obj
+[17/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ccm.c.obj
+[18/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/blowfish.c.obj
+[19/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/camellia.c.obj
+[20/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/chacha20.c.obj
+[21/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/cipher_wrap.c.obj
+[22/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/cipher.c.obj
+[23/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/bignum.c.obj
+[24/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/constant_time.c.obj
+[25/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/poly1305.c.obj
+[26/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ecdh.c.obj
+[27/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/des.c.obj
+[28/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ecdsa.c.obj
+[29/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ctr_drbg.c.obj
+[30/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ecjpake.c.obj
+[31/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/cmac.c.obj
+[32/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/dhm.c.obj
+[33/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/entropy.c.obj
+[34/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/entropy_poll.c.obj
+[35/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ecp_curves.c.obj
+[36/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/hkdf.c.obj
+[37/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/gcm.c.obj
+[38/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/error.c.obj
+[39/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/hmac_drbg.c.obj
+[40/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ecp.c.obj
+[41/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/md2.c.obj
+[42/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/nist_kw.c.obj
+[43/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/md.c.obj
+[44/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/mps_trace.c.obj
+[45/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/havege.c.obj
+[46/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/memory_buffer_alloc.c.obj
+[47/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/md4.c.obj
+[48/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/mps_reader.c.obj
+[49/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/padlock.c.obj
+[50/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/md5.c.obj
+[51/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/oid.c.obj
+[52/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pem.c.obj
+[53/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/mbed_sha256.c.obj
+[54/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_its_file.c.obj
+[55/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/rsa_internal.c.obj
+[56/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ripemd160.c.obj
+[57/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pk.c.obj
+[58/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pkcs12.c.obj
+[59/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/sha1.c.obj
+[60/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/rsa.c.obj
+[61/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pkcs5.c.obj
+[62/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/platform_util.c.obj
+[63/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pk_wrap.c.obj
+[64/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pkwrite.c.obj
+[65/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pkparse.c.obj
+[66/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/platform.c.obj
+[67/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_aead.c.obj
+[68/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_cipher.c.obj
+[69/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_client.c.obj
+[70/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_ecp.c.obj
+[71/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_driver_wrappers.c.obj
+[72/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_hash.c.obj
+[73/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_mac.c.obj
+[74/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_se.c.obj
+[75/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_rsa.c.obj
+[76/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/threading.c.obj
+[77/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_slot_management.c.obj
+[78/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto_storage.c.obj
+[79/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/version_features.c.obj
+[80/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/version.c.obj
+[81/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/xtea.c.obj
+[82/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/timing.c.obj
+[83/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/psa_crypto.c.obj
+[84/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/sha512.c.obj
+[85/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/pkcs11.c.obj
+[86/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/certs.c.obj
+[87/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509_create.c.obj
+[88/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509_crl.c.obj
+[89/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509.c.obj
+[90/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/mbed_debug.c.obj
+[91/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509write_csr.c.obj
+[92/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509_csr.c.obj
+[93/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509write_crt.c.obj
+[94/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_cookie.c.obj
+[95/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/net_sockets.c.obj
+[96/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_cache.c.obj
+[97/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/x509_crt.c.obj
+[98/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_ciphersuites.c.obj
+[99/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_tls13_keys.c.obj
+[100/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-private.c.obj
+[101/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_ticket.c.obj
+[102/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-string.c.obj
+[103/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_msg.c.obj
+[104/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-set.c.obj
+[105/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_cli.c.obj
+[106/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_srv.c.obj
+[107/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-search.c.obj
+[108/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_AT_UART_qlrtos.c.obj
+[109/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_OS_qlrtos.c.obj
+[110/516] Building C object components/net/mbedtls/CMakeFiles/mbedtls.dir/library/ssl_tls.c.obj
+[111/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/shadow_basic_demo.c.obj
+[112/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_Log_qlrtos.c.obj
+[113/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_Timer_qlrtos.c.obj
+[114/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_Device_qlrtos.c.obj
+[115/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_TCP_qlrtos.c.obj
+[116/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/platform/os/qlrtos/HAL_UDP_qlrtos.c.obj
+[117/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/ntp_posix_demo.c.obj
+[118/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/data_template/data_template_sample.c.obj
+[119/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/dynreg_dev/dynreg_dev_sample.c.obj
+[120/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/network/network_interface.c.obj
+[121/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/gateway/sub_dev001.c.obj
+[122/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/raw_data/raw_data_sample.c.obj
+[123/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/gateway/gateway_sample.c.obj
+[124/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/mqtt/mqtt_sample.c.obj
+[125/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/ota/ota_mqtt_sample.c.obj
+[126/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/network/socket/network_socket.c.obj
+[127/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/samples/scenarized/light_data_template_sample.c.obj
+[128/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/network/tls/network_tls.c.obj
+[129/516] Linking C static library lib\libmbedtls.a
+[130/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_connect.c.obj
+[131/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/http/utils_httpc.c.obj
+[132/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_unsubscribe.c.obj
+[133/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client.c.obj
+[134/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_publish.c.obj
+[135/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_net.c.obj
+[136/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_common.c.obj
+[137/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_subscribe.c.obj
+[138/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/protocol/mqtt/mqtt_client_yield.c.obj
+[139/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/data_template/data_template_aciton.c.obj
+[140/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/data_template/data_template_client_common.c.obj
+[141/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/data_template/data_template_client_json.c.obj
+[142/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/data_template/data_template_client_manager.c.obj
+[143/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/gateway/gateway_common.c.obj
+[144/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/dynreg/dynreg.c.obj
+[145/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/gateway/gateway_api.c.obj
+[146/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/data_template/data_template_client.c.obj
+[147/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/data_template/data_template_event.c.obj
+[148/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/ota/ota_lib.c.obj
+[149/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/ota/ota_fetch.c.obj
+[150/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/ota/ota_client.c.obj
+[151/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/json_token.c.obj
+[152/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/json_parser.c.obj
+[153/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/log/log_mqtt.c.obj
+[154/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/qcloud_iot_ca.c.obj
+[155/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/system/system_mqtt.c.obj
+[156/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/ota/ota_mqtt.c.obj
+[157/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/services/log/log_upload.c.obj
+[158/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/qcloud_iot_log.c.obj
+[159/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/string_utils.c.obj
+[160/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/qcloud_iot_device.c.obj
+[161/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_getopt.c.obj
+[162/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_base64.c.obj
+[163/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_timer.c.obj
+[164/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_hmac.c.obj
+[165/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_list.c.obj
+[166/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_ringbuff.c.obj
+[167/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_md5.c.obj
+[168/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_aes.c.obj
+[169/516] Building C object components/ql-application/i2c/CMakeFiles/ql_app_i2c.dir/I2C_demo.c.obj
+[170/516] Linking C static library lib\libql_app_i2c.a
+[171/516] Building C object components/ql-application/qcloud-iot/CMakeFiles/ql_qcloud_iot.dir/sdk_src/utils/utils_sha1.c.obj
+[172/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-entity.c.obj
+[173/516] Building C object components/ql-application/sdmmc/CMakeFiles/ql_app_sdmmc.dir/ql_sdmmc_demo.c.obj
+[174/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-get.c.obj
+[175/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/mxml_demo.c.obj
+[176/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-attr.c.obj
+[177/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-index.c.obj
+[178/516] Building C object components/appstart/CMakeFiles/8915DM_cat1_open_ldscript.dir/__/hal/ldscripts/flashrun.ld.obj
+[179/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-node.c.obj
+[180/516] Building C object components/apploader/CMakeFiles/export_list_gen.dir/src/core_export.list.obj
+[181/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_config_adapter.c.obj
+[182/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_mem_adapter.c.obj
+[183/516] Building C object components/ql-application/mxml/CMakeFiles/ql_app_mxml.dir/src/mxml-file.c.obj
+[184/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_nan_adapter.c.obj
+[185/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_ota_adapter.c.obj
+[186/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_network_adapter.c.obj
+[187/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_softap_adapter.c.obj
+[188/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_socket_adapter.c.obj
+[189/516] Linking C static library lib\libql_qcloud_iot.a
+[190/516] Linking C static library lib\libql_app_mxml.a
+[191/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_sys_adapter.c.obj
+[192/516] Generating core_export.o, ../../lib/core_stub.o
+core export version 1.0, count 867
+[193/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_str_adapter.c.obj
+[194/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/hilink_device.c.obj
+[195/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/hilink_ota.c.obj
+[196/516] Generating ../../../lib/ql_hilinksdk.a
+[197/516] Building C object components/ql-application/HiLinkSDK/CMakeFiles/ql_app_hilinksdk.dir/adapter/hilink_open_timer_adapter.c.obj
+[198/516] Building C object components/ql-kernel/ql_at/CMakeFiles/ql_at_cmd_table_gperf.dir/src/ql_at_cmd_table.gperf.obj
+[199/516] Building C object components/ql-application/init/CMakeFiles/APPIMAGE_APP_ldscript.dir/__/__/apploader/pack/app_flashimg.ld.obj
+[200/516] Building C object components/ql-kernel/drivers/CMakeFiles/ql_spi4_nor_prop.dir/quec_spi_nor_flash_prop.c.obj
+[201/516] Building C object components/ql-kernel/virt_func/CMakeFiles/oql_core_boot_virt_func.dir/quec_boot_virt_func_bsp.c.obj
+[202/516] Linking C static library lib\libql_spi4_nor_prop.a
+[203/516] Linking C static library lib\liboql_core_boot_virt_func.a
+[204/516] Generating ../../../hex/examples/APPIMAGE_APP_prepack.cpio
+[205/516] Building C object components/apploader/CMakeFiles/apploader.dir/src/app_loader.c.obj
+[206/516] Building C object components/appstart/CMakeFiles/appstart.dir/src/app_start.c.obj
+[207/516] Linking C static library lib\libapploader.a
+[208/516] Linking C static library lib\libappstart.a
+[209/516] Building C object components/ql-application/nw/CMakeFiles/ql_app_nw.dir/nw_demo.c.obj
+[210/516] Generating hal_spi_flash_prop.h
+[211/516] Building C object components/ql-application/nw/CMakeFiles/ql_app_nw.dir/datacall_demo.c.obj
+[212/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/gpio_int_demo.c.obj
+[213/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/adc_demo.c.obj
+[214/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/gpio_demo.c.obj
+[215/516] Building ASM object components/bootloader/CMakeFiles/bootloader.dir/src/boot_entry_v7a.S.obj
+[216/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/keypad_demo.c.obj
+[217/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/ql_pin_cfg.c.obj
+[218/516] Building C object components/ql-application/init/CMakeFiles/APPIMAGE_APP.dir/ql_init.c.obj
+[219/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/led_cfg_demo.c.obj
+[220/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_sffs_port.c.obj
+[221/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/8910/boot_platform_8910.c.obj
+[222/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/8910/boot_secure.c.obj
+[223/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_aes.c.obj
+[224/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_irq.c.obj
+[225/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_timer.c.obj
+[226/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_trace.c.obj
+[227/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_stub.c.obj
+[228/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_vfs.c.obj
+[229/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_delay.c.obj
+[230/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_debuguart.c.obj
+[231/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_fdl_dnld.c.obj
+[232/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_mem.c.obj
+[233/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_uart_cmn.c.obj
+[234/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_pdl_uimage.c.obj
+[235/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_spi_flash.c.obj
+[236/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_fdl.c.obj
+[237/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_uimage.c.obj
+[238/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_usb_fdl_channel.c.obj
+[239/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_adi_bus.c.obj
+[240/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_pdl.c.obj
+[241/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_log.c.obj
+[242/516] Building ASM object components/bootloader/CMakeFiles/fdl2.dir/calibparam.bin.S.obj
+[243/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_uart.c.obj
+[244/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_mmu.c.obj
+[245/516] Building C object components/bootloader/CMakeFiles/bootloader.dir/src/boot_udc.c.obj
+[246/516] Building C object components/bootloader/CMakeFiles/fdl2.dir/fdl2/fdl2_main.c.obj
+[247/516] Building C object components/bootloader/CMakeFiles/fdl1.dir/fdl1/fdl1_main.c.obj
+[248/516] Building C object components/bootloader/CMakeFiles/boot2.dir/boot/boot2_start_8910.c.obj
+[249/516] Building C object components/bootloader/CMakeFiles/flash_test_fdl.dir/flash_test_fdl/flash_test_main.c.obj
+[250/516] Building C object components/driver/CMakeFiles/driver_camera.dir/src/image_sensor/camera_gc0310.c.obj
+[251/516] Building C object components/driver/CMakeFiles/driver_lcd.dir/src/drv_lcd_cfg.c.obj
+[252/516] Building C object components/driver/CMakeFiles/driver_camera.dir/src/image_sensor/camera_gc032a.c.obj
+[253/516] Building C object components/driver/CMakeFiles/driver_camera.dir/src/image_sensor/image_sensor.c.obj
+[254/516] Building C object components/driver/CMakeFiles/driver_lcd.dir/src/lcd/drv_lcd_gc9305.c.obj
+[255/516] Building C object components/driver/CMakeFiles/driver_lcd.dir/src/lcd/drv_lcd_st7567a.c.obj
+[256/516] Building C object components/driver/CMakeFiles/driver_lcd.dir/src/lcd/drv_lcd_st7735s.c.obj
+[257/516] Building C object components/ql-kernel/drivers/CMakeFiles/oql_core_drv.dir/quec_internal_cfg.c.obj
+[258/516] Building C object components/driver/CMakeFiles/driver_charge.dir/src/drv_charger.c.obj
+[259/516] Building C object components/hal/CMakeFiles/hal_prop.dir/src/ql_hal_spi_flash_prop.c.obj
+[260/516] Building C object components/ql-kernel/drivers/CMakeFiles/oql_core_drv.dir/quec_pin_cfg_EC200U.c.obj
+[261/516] Linking C static library lib\libhal_prop.a
+[262/516] Building C object components/ql-kernel/drivers/CMakeFiles/oql_core_drv.dir/quec_customer_cfg.c.obj
+[263/516] Building C object components/ql-kernel/drivers/CMakeFiles/oql_core_drv.dir/quec_pin_init.c.obj
+[264/516] Linking C static library lib\libql_app_nw.a
+[265/516] Building C object components/ql-kernel/boot_ex/CMakeFiles/boot_ex_ql_pin.dir/quec_boot_pin_map.c.obj
+[266/516] Linking C static library lib\libdriver_camera.a
+[267/516] Building C object components/ql-kernel/virt_func/CMakeFiles/oql_core_virt_func.dir/quec_virt_func_modem.c.obj
+[268/516] Building C object components/ql-kernel/virt_func/CMakeFiles/oql_core_virt_func.dir/quec_virt_func_proto_stack.c.obj
+[269/516] Building C object components/ql-kernel/virt_func/CMakeFiles/oql_core_virt_func.dir/quec_virt_func_bt.c.obj
+[270/516] Linking C static library lib\libdriver_lcd.a
+[271/516] Linking C static library lib\libdriver_charge.a
+[272/516] Linking C static library lib\liboql_core_drv.a
+[273/516] Linking C static library lib\libboot_ex_ql_pin.a
+[274/516] Building C object components/ql-application/osi/CMakeFiles/ql_app_osi.dir/osi_demo.c.obj
+[275/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/uart_demo.c.obj
+[276/516] Building C object components/ql-application/dev/CMakeFiles/ql_app_dev.dir/ql_dev_demo.c.obj
+[277/516] Building C object components/ql-application/peripheral/CMakeFiles/ql_app_peripheral.dir/rs485_demo.c.obj
+[278/516] Building C object components/ql-kernel/virt_func/CMakeFiles/oql_core_virt_func.dir/quec_virt_func_bsp.c.obj
+[279/516] Linking C static library lib\libql_app_osi.a
+[280/516] Generating ql_at_cmd_table.h
+[281/516] Linking C static library lib\libql_app_dev.a
+[282/516] Linking C static library lib\libql_app_peripheral.a
+[283/516] Linking C static library lib\liboql_core_virt_func.a
+[284/516] Building C object components/ql-application/power/CMakeFiles/ql_app_power.dir/power_demo.c.obj
+[285/516] Linking C static library lib\libql_app_sdmmc.a
+[286/516] Linking C static library lib\libbootloader.a
+[287/516] Building C object components/ql-application/power/CMakeFiles/ql_app_power.dir/charge_demo.c.obj
+[288/516] Building C object components/ql-application/qnewlib/CMakeFiles/ql_newlib.dir/ql_newlib.c.obj
+[289/516] Building C object components/ql-application/power/CMakeFiles/ql_app_power.dir/psm_demo.c.obj
+[290/516] Building C object components/ql-application/fs/CMakeFiles/ql_app_file.dir/ql_fs_demo.c.obj
+[291/516] Building C object components/ql-kernel/ql_at/CMakeFiles/ql_open_at.dir/src/ql_atcmd_handler.c.obj
+[292/516] Linking C static library lib\libql_app_power.a
+[293/516] Building C object components/ql-application/tts/CMakeFiles/ql_app_tts.dir/tts_demo.c.obj
+[294/516] Linking C static library lib\libql_open_at.a
+[295/516] Building C object components/ql-application/tts/CMakeFiles/ql_app_tts.dir/tts_demo2.c.obj
+[296/516] Linking C static library ..\..\components\newlib\armca5\libql_newlib.a
+[297/516] Linking C executable hex\fdl1.elf
+[298/516] Linking C static library lib\libql_app_file.a
+[299/516] Building C object components/ql-application/audio/CMakeFiles/ql_app_audio.dir/audio_demo.c.obj
+[300/516] Linking C executable hex\flash_test_fdl.elf
+[301/516] Linking C static library lib\libql_app_tts.a
+[302/516] Linking C static library lib\libql_app_audio.a
+[303/516] Linking C executable hex\boot2.elf
+[304/516] Generating lib/all_libs.a
+[305/516] Linking C static library lib\libql_app_hilinksdk.a
+[306/516] Linking C executable hex\fdl2.elf
+[307/516] Generating ../../hex/boot2.img.lzmar
+[308/516] Building CXX object components/appstart/CMakeFiles/8915DM_cat1_open.dir/__/__/cmake/dummy.cpp.obj
+[309/516] Building C object components/ql-application/bt/CMakeFiles/ql_app_bt.dir/bt_demo.c.obj
+[310/516] Building C object components/ql-application/bt/CMakeFiles/ql_app_bt_hfp.dir/bt_hfp_demo.c.obj
+[311/516] Building C object components/ql-application/bt/CMakeFiles/ql_app_ble_gatt.dir/ble_gatt_demo.c.obj
+[312/516] Linking C static library lib\libql_app_bt.a
+[313/516] Building ASM object components/bootloader/CMakeFiles/boot.dir/boot2.img.lzmar.S.obj
+[314/516] Building C object components/ql-application/ftp/CMakeFiles/ql_app_ftp.dir/ftp_demo.c.obj
+[315/516] Building C object components/ql-application/http/CMakeFiles/ql_app_http.dir/http_post_demo.c.obj
+[316/516] Linking C static library lib\libql_app_ble_gatt.a
+[317/516] Building C object components/ql-application/http/CMakeFiles/ql_app_http.dir/http_demo.c.obj
+[318/516] Linking C static library lib\libql_app_bt_hfp.a
+[319/516] Building C object components/bootloader/CMakeFiles/boot.dir/boot/boot_start_8910.c.obj
+[320/516] Linking C static library lib\libql_app_ftp.a
+[321/516] Building C object components/ql-application/gnss/CMakeFiles/ql_app_gnss.dir/gnss_demo.c.obj
+[322/516] Linking C static library lib\libql_app_gnss.a
+[323/516] Building C object components/ql-application/http/CMakeFiles/ql_app_http.dir/https_get_demo.c.obj
+[324/516] Linking C executable hex\boot.elf
+[325/516] Building C object components/ql-application/ping/CMakeFiles/ql_app_ping.dir/ping_demo.c.obj
+[326/516] Building C object components/ql-application/http/CMakeFiles/ql_app_http.dir/http_put_demo.c.obj
+[327/516] Building C object components/ql-application/ntp/CMakeFiles/ql_app_ntp.dir/ntp_demo.c.obj
+[328/516] Building C object components/ql-application/mqtt/CMakeFiles/ql_app_mqtt.dir/mqtt_demo.c.obj
+[329/516] Linking C static library lib\libql_app_ping.a
+[330/516] Linking C static library lib\libql_app_http.a
+[331/516] Linking C static library lib\libql_app_ntp.a
+[332/516] Linking C static library lib\libql_app_mqtt.a
+[333/516] Building C object components/ql-application/ssl/CMakeFiles/ql_app_ssl.dir/ssl_demo.c.obj
+[334/516] Building C object components/ql-application/lcd/CMakeFiles/ql_app_lcd.dir/lcd_demo.c.obj
+[335/516] Building C object components/ql-application/lbs/CMakeFiles/ql_app_lbs.dir/lbs_demo.c.obj
+[336/516] Building C object components/ql-application/lbs/CMakeFiles/ql_app_lbs.dir/lbs_wifi_demo.c.obj
+[337/516] Linking C static library lib\libql_app_lcd.a
+[338/516] Linking C static library lib\libql_app_ssl.a
+[339/516] Linking C static library lib\libql_app_lbs.a
+[340/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_disp.c.obj
+[341/516] Building C object components/ql-application/socket/CMakeFiles/ql_app_socket.dir/socket_demo.c.obj
+[342/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_style.c.obj
+[343/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_indev.c.obj
+[344/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_group.c.obj
+[345/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_debug.c.obj
+[346/516] Linking C static library lib\libql_app_socket.a
+[347/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_basic.c.obj
+[348/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_refr.c.obj
+[349/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw.c.obj
+[350/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_label.c.obj
+[351/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_img.c.obj
+[352/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_core/lv_obj.c.obj
+[353/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_line.c.obj
+[354/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_img_cache.c.obj
+[355/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_rect.c.obj
+[356/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font.c.obj
+[357/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_triangle.c.obj
+[358/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_draw_arc.c.obj
+[359/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_draw/lv_img_decoder.c.obj
+[360/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font_fmt_txt.c.obj
+[361/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_hal/lv_hal_disp.c.obj
+[362/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_hal/lv_hal_indev.c.obj
+[363/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font_roboto_22.c.obj
+[364/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font_roboto_12.c.obj
+[365/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font_roboto_16.c.obj
+[366/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font_roboto_28.c.obj
+[367/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_hal/lv_hal_tick.c.obj
+[368/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_circ.c.obj
+[369/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_font/lv_font_unscii_8.c.obj
+[370/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_area.c.obj
+[371/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_txt.c.obj
+[372/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_fs.c.obj
+[373/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_task.c.obj
+[374/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_mem.c.obj
+[375/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_color.c.obj
+[376/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_utils.c.obj
+[377/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_ll.c.obj
+[378/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_async.c.obj
+[379/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_anim.c.obj
+[380/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_log.c.obj
+[381/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_math.c.obj
+[382/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_gc.c.obj
+[383/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_bidi.c.obj
+[384/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_arc.c.obj
+[385/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_misc/lv_printf.c.obj
+[386/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_line.c.obj
+[387/516] Generating hex/cat1_UIS8915DM_BB_RF_SS_NoVolte_cus.img, hex/cat1_UIS8915DM_BB_RF_SS_NoVolte_cus_nvitem.bin, hex/cat1_UIS8915DM_BB_RF_SS_NoVolte_cus_prepack.cpio
+NVGen_R2.19.0401
+Open project...
+Save nvitem bin file...
+finished
+[Status] pass
+NVGen_R2.19.0401
+Open project...
+Save nvitem bin file...
+[Warning] File: C:\ecn200u\out\8915DM_cat1_open_release\modemgen\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus\deltanv\delta.nv, Not find nv_ver_flag
+Merge Configure NV files   finished
+finished
+[Status] pass
+[388/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_bar.c.obj
+[389/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_cpicker.c.obj
+[390/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_kb.c.obj
+[391/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_ddlist.c.obj
+[392/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_cb.c.obj
+[393/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_table.c.obj
+[394/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_roller.c.obj
+[395/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_mbox.c.obj
+[396/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_preload.c.obj
+[397/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_calendar.c.obj
+[398/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_tileview.c.obj
+[399/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_tabview.c.obj
+[400/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_btn.c.obj
+[401/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_gauge.c.obj
+[402/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_chart.c.obj
+[403/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_list.c.obj
+[404/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_canvas.c.obj
+[405/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_label.c.obj
+[406/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_spinbox.c.obj
+[407/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_cont.c.obj
+[408/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_slider.c.obj
+[409/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_btnm.c.obj
+[410/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_lmeter.c.obj
+[411/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_img.c.obj
+[412/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_imgbtn.c.obj
+[413/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_led.c.obj
+[414/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_alien.c.obj
+[415/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_ta.c.obj
+[416/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_page.c.obj
+[417/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme.c.obj
+[418/516] Linking CXX executable hex\8915DM_cat1_open.elf
+[419/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_sw.c.obj
+[420/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_default.c.obj
+[421/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_zen.c.obj
+[422/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_objx/lv_win.c.obj
+[423/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_night.c.obj
+[424/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_material.c.obj
+[425/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_templ.c.obj
+[426/516] Building C object components/ql-application/spi/CMakeFiles/ql_app_spi.dir/spi_demo.c.obj
+[427/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_nemo.c.obj
+[428/516] Building C object components/ql-application/lvgl_lib/CMakeFiles/lvgl.dir/lvgl/src/lv_themes/lv_theme_mono.c.obj
+[429/516] Linking C static library lib\libql_app_spi.a
+[430/516] Building C object components/ql-application/camera/CMakeFiles/ql_app_camera.dir/camera_demo.c.obj
+[431/516] Building C object components/ql-application/wifi_scan/CMakeFiles/ql_app_wifi_scan.dir/wifi_scan_demo.c.obj
+[432/516] Linking C static library lib\libql_app_camera.a
+[433/516] Building C object components/ql-application/sim/CMakeFiles/ql_app_sim.dir/ql_sim_demo.c.obj
+[434/516] Linking C static library lib\libql_app_wifi_scan.a
+[435/516] Building C object components/ql-application/sms/CMakeFiles/ql_app_sms.dir/sms_demo.c.obj
+[436/516] Linking C static library lib\libql_app_sim.a
+[437/516] Building C object components/ql-application/voice_call/CMakeFiles/ql_app_voice_call.dir/voice_call_demo.c.obj
+[438/516] Building C object components/ql-application/lvgl/CMakeFiles/ql_app_lvgl.dir/lvgl_demo.c.obj
+[439/516] Linking C static library lib\libql_app_sms.a
+[440/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/mqtt_broadcast_demo.c.obj
+[441/516] Linking C static library lib\libql_app_voice_call.a
+[442/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/fota_basic_demo.c.obj
+[443/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/logpost_basic_demo.c.obj
+[444/516] Building C object components/ql-application/spi6_ext_nor_flash/CMakeFiles/ql_app_spi6_ext_nor_flash.dir/spi6_ext_nor_flash_demo.c.obj
+[445/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/mqtt_rrpc_demo.c.obj
+[446/516] Building C object components/ql-application/spi_nor_flash/CMakeFiles/ql_app_spi_nor_flash.dir/spi_nor_flash_demo.c.obj
+[447/516] Building C object components/ql-application/spi_nand_flash/CMakeFiles/ql_app_spi_nand_flash.dir/spi_nand_flash_demo.c.obj
+[448/516] Linking C static library lib\libql_app_spi6_ext_nor_flash.a
+[449/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/http_basic_demo.c.obj
+[450/516] Linking C static library lib\liblvgl.a
+[451/516] Linking C static library lib\libql_app_spi_nor_flash.a
+[452/516] Linking C static library lib\libql_app_spi_nand_flash.a
+[453/516] Building C object components/ql-application/rtc/CMakeFiles/ql_app_rtc.dir/ql_rtc_demo.c.obj
+[454/516] Building C object components/ql-application/decoder/CMakeFiles/ql_app_decoder.dir/decoder_demo.c.obj
+[455/516] Building C object components/ql-application/ftp_fota/CMakeFiles/ql_app_ftp_fota.dir/fota_ftp_demo.c.obj
+[456/516] Building C object components/ql-application/http_fota/CMakeFiles/ql_app_http_fota.dir/fota_http_demo.c.obj
+[457/516] Linking C static library lib\libql_app_lvgl.a
+[458/516] Linking C static library lib\libql_app_rtc.a
+[459/516] Linking C static library lib\libql_app_decoder.a
+[460/516] Linking C static library lib\libql_app_ftp_fota.a
+[461/516] Linking C static library lib\libql_app_http_fota.a
+[462/516] Building C object components/ql-application/virt_at/CMakeFiles/ql_app_virt_at.dir/ql_virt_at_demo.c.obj
+[463/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_diag.c.obj
+[464/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_auth.c.obj
+[465/516] Linking C static library lib\libql_app_virt_at.a
+[466/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_sha256.c.obj
+[467/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_string.c.obj
+[468/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_global.c.obj
+[469/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/aiot_state_api.c.obj
+[470/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_http.c.obj
+[471/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/aiot_http_api.c.obj
+[472/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/utils/core_log.c.obj
+[473/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/sysdep/core_sysdep.c.obj
+[474/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/external/ali_ca_cert.c.obj
+[475/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/devinfo/aiot_devinfo_api.c.obj
+[476/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/bootstrap/aiot_bootstrap_api.c.obj
+[477/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/data-model/aiot_dm_api.c.obj
+[478/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/ota/ota_md5.c.obj
+[479/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/logpost/aiot_logpost_api.c.obj
+[480/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/core/aiot_mqtt_api.c.obj
+[481/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/ntp/aiot_ntp_api.c.obj
+[482/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/diag/aiot_diag_api.c.obj
+[483/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/proto/lsoc.pb.c.obj
+[484/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/ota/aiot_ota_api.c.obj
+[485/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/proto/pb_decode.c.obj
+[486/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/shadow/aiot_shadow_api.c.obj
+[487/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/proto/pb_common.c.obj
+[488/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/das_attest.c.obj
+[489/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/proto/pb_encode.c.obj
+[490/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/das_core.c.obj
+[491/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/sha1.c.obj
+[492/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/service/service_rom.c.obj
+[493/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/service/service_lwip_nfi.c.obj
+[494/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/service/service_sys.c.obj
+[495/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/service/service.c.obj
+[496/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/src/core/utils.c.obj
+[497/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/dynreg/aiot_dynreg_api.c.obj
+[498/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/das/aiot_das_api.c.obj
+[499/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/dynreg-mqtt/aiot_dynregmq_api.c.obj
+[500/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/components/subdev/aiot_subdev_api.c.obj
+[501/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/das_basic_demo.c.obj
+[502/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/cota_basic_demo.c.obj
+[503/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/mqtt_basic_demo.c.obj
+[504/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/bootstrap_posix_demo.c.obj
+[505/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/diag_basic_demo.c.obj
+[506/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/dynreg_basic_demo.c.obj
+[507/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/portfiles/adapt_ql_port.c.obj
+[508/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/data_model_basic_demo.c.obj
+[509/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/devinfo_posix_demo.c.obj
+[510/516] Building C object components/ql-application/LinkSDK/CMakeFiles/ql_ali_linkSDK.dir/demos/dynregmq_basic_demo.c.obj
+[511/516] Linking C static library lib\libql_ali_linkSDK.a
+[512/516] Linking C executable hex\examples\APPIMAGE_APP.elf
+[513/516] Generating hex/fdl1.sign.img, hex/fdl2.sign.img, hex/boot.sign.img, hex/8915DM_cat1_open.sign.img, hex/examples/APPIMAGE_APP.sign.img
+[514/516] Generating hex/appimg_flash_delete.pac
+[515/516] Generating ../../../hex/examples/APPIMAGE_APP.pac
+[516/516] Generating hex/8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac
+
+
+********************        PASS         ***********************
+**************   build ended successfully   ********************
+********************        PASS         ***********************
+
+
+EC200UCN_AA APPIMAGE release NOVOLTE SINGLESIM 
+
+.\hex\8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac
+.\hex\8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac.d
+.\hex\8915DM_cat1_open.elf
+.\hex\8915DM_cat1_open.img
+.\hex\8915DM_cat1_open.map
+.\hex\8915DM_cat1_open.sign.img
+.\hex\appimg_flash_delete.pac
+.\hex\boot.elf
+.\hex\boot.img
+.\hex\boot.map
+.\hex\boot.sign.img
+.\hex\boot2.elf
+.\hex\boot2.img
+.\hex\boot2.img.lzmar
+.\hex\boot2.map
+.\hex\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus.img
+.\hex\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus_nvitem.bin
+.\hex\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus_prepack.cpio
+.\hex\fdl1.elf
+.\hex\fdl1.img
+.\hex\fdl1.map
+.\hex\fdl1.sign.img
+.\hex\fdl2.elf
+.\hex\fdl2.img
+.\hex\fdl2.map
+.\hex\fdl2.sign.img
+.\hex\flash_test_fdl.elf
+.\hex\flash_test_fdl.img
+.\hex\flash_test_fdl.map
+.\hex\partinfo.bin
+30 File(s) copied
+        1 file(s) moved.
+        1 file(s) moved.
+C:\ecn200u\target\EC200UCN_AA_APPIMAGE\prepack\8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac
+        1 file(s) moved.
+.\target.cmake
+1 File(s) copied
+.\hex\examples\APPIMAGE_APP.elf
+.\hex\examples\APPIMAGE_APP.img
+.\hex\examples\APPIMAGE_APP.map
+.\hex\examples\APPIMAGE_APP.pac
+.\hex\examples\APPIMAGE_APP.sign.img
+.\hex\examples\APPIMAGE_APP_prepack.cpio
+6 File(s) copied
+
+total: text,rodata,data,bss,code,flash,ram
+       1701634,505934,9227,341606,2207568,2216795,350833
+size by library to outlib.csv ...
+size by object to outobj.csv ...
+size by section to outsect.csv ...
+        1 file(s) moved.
+        1 file(s) moved.
+        1 file(s) moved.
+
+Thu 05/04/2023
+START TIME:  16:54:25.39
+END TIME:    16:55:23.43
+

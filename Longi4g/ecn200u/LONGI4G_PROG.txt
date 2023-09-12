@@ -1,0 +1,215 @@
+
+C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\srecord;C:\Users\Yossi.f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q3\bin;C:\Program Files (x86) \PuTTY\;C:\Program Files (x86)\VMware;"C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\python.exe;C:\srecord;C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;
+
+"step 1"
+"step 2"
+"step 3"
+"step 4"
+components\ql-kernel\modem\ims\cn
+"step 5"
+"step 6"\bin
+"step 7"
+"step 8"
+"step 9"
+"step 10"
+
+ECHO is off.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+components\ql-config\build\ec200ucn_aa\ql_libs\libql_at.a
+1 File(s) copied
+
+C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\ecn200u\tools\win32;C:\ecn200u\tools;C:\ecn200u\prebuilts\win32\nanopb;C:\ecn200u\prebuilts\win32\gcc-rv32-elf\bin;C:\ecn200u\prebuilts\win32\gcc-mips-rda-elf\bin;C:\ecn200u\prebuilts\win32\gcc-arm-none-eabi\bin;C:\ecn200u\prebuilts\win32\python3;C:\ecn200u\prebuilts\win32\cmake\bin;C:\ecn200u\prebuilts\win32\bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Cadence\SPB_16.6\tools\pcb\bin;C:\Cadence\SPB_16.6\tools\bin;C:\Cadence\SPB_16.6\tools\libutil\bin;C:\Cadence\SPB_16.6\tools\fet\bin;C:\Cadence\SPB_16.6\tools\specctra\bin;C:\Cadence\SPB_16.6\tools\pspice;C:\Cadence\SPB_16.6\tools\capture;C:\Cadence\SPB_16.6\openaccess\bin\win32\opt;C:\srecord;C:\Users\Yossi.f\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q3\bin;C:\Program Files (x86) \PuTTY\;C:\Program Files (x86)\VMware;"C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;C:\Users\Yossi.f\AppData\Local\Programs\Python\Python310\python.exe;C:\srecord;C:\Users\Yossi.f\AppData\Local\Microsoft\WindowsApps;
+
+-- Could NOT find Git (missing: GIT_EXECUTABLE) 
+-- QL_APP_FEATURE_FTP ON
+-- QL_APP_FEATURE_HTTP ON
+-- FEATURE MMS is disabled at core!
+-- QL_APP_FEATURE_MMS OFF
+-- QL_APP_FEATURE_MQTT ON
+-- FIREWALL is disabled at core!
+-- QL_APP_FEATURE_FIREWALL OFF
+-- QL_APP_FEATURE_SSL ON
+-- QL_APP_FEATURE_PING ON
+-- QL_APP_FEATURE_NTP ON
+-- QL_APP_FEATURE_ALI_LINKSDK ON
+-- QL_APP_FEATURE_QCLOUD_IOT ON
+-- QL_APP_FEATURE_LBS ON
+-- FEATURE QTHSDK is disabled at core!
+-- QL_APP_FEATURE_QTHSDK OFF
+-- QL_APP_FEATURE_SOCKET ON
+-- FEATURE ALIOTSMARTCARD is disabled at core!
+-- QL_APP_FEATURE_ALIOTSMARTCARD OFF
+-- FEATURE CTSREG is disabled at core!
+-- QL_APP_FEATURE_CTSREG OFF
+-- QL_APP_FEATURE_FILE ON
+-- FEATURE FILE_ZIP is disabled at core!
+-- QL_APP_FEATURE_FILE_ZIP OFF
+-- QL_APP_FEATURE_LONGI4G ON
+-- QL_APP_FEATURE_AUDIO ON
+-- QL_APP_FEATURE_AUDIO_RECORD ON
+-- FEATURE HEADSET_DET is disabled at core!
+-- QL_APP_FEATURE_HEADSET_DET OFF
+-- QL_APP_FEATURE_TTS ON
+-- QL_APP_FEATURE_EXT_CODEC ON
+-- QL_APP_FEATURE_WIFISCAN ON
+-- QL_APP_FEATURE_BT ON
+-- QL_APP_FEATURE_BT_HFP ON
+-- FEATURE BT A2DP & AVRCP is disabled at core!
+-- QL_APP_FEATURE_BT_A2DP_AVRCP OFF
+-- QL_APP_FEATURE_BLE_GATT ON
+-- QL_APP_FEATURE_GNSS ON
+-- QL_APP_FEATURE_LCD ON
+-- QL_APP_FEATURE_LVGL ON
+-- FEATURE MIPI LCD is disabled at core!
+-- QL_APP_FEATURE_MIPI_LCD OFF
+-- QL_APP_FEATURE_CAMERA ON
+-- QL_APP_FEATURE_SIM ON
+-- FEATURE DOUBLE SIM is disabled at core!
+-- QL_APP_FEATURE_DSIM OFF
+-- FEATURE DSSS is disabled at core!
+-- QL_APP_FEATURE_DSSS OFF
+-- FEATURE PBK is disabled at core!
+-- QL_APP_FEATURE_PBK OFF
+-- QL_APP_FEATURE_SMS ON
+-- QL_APP_FEATURE_VOICE_CALL ON
+-- FEATURE VoLTE is disabled at core!
+-- QL_APP_FEATURE_VOLTE OFF
+-- QL_APP_FEATURE_SPI ON
+-- QL_APP_FEATURE_SPI_NOR_FLASH ON
+-- FEATURE SPI4_EXT_NOR_SFFS is disabled at core!
+-- QL_APP_FEATURE_SPI4_EXT_NOR_SFFS OFF
+-- QL_APP_FEATURE_SPI6_EXT_NOR ON
+-- QL_APP_FEATURE_SPI_NAND_FLASH ON
+-- QL_APP_FEATURE_UART ON
+-- QL_APP_FEATURE_RS485 ON
+-- QL_APP_FEATURE_LEDCFG ON
+-- QL_APP_FEATURE_KEYPAD ON
+-- QL_APP_FEATURE_DECODER ON
+-- QL_APP_FEATURE_RTC ON
+-- QL_APP_FEATURE_SECURE_BOOT OFF
+-- QL_APP_FEATURE_USB_CHARGE ON
+-- QL_APP_FEATURE_VIRT_AT ON
+-- QL_APP_FEATURE_I2C ON
+-- QL_APP_FEATURE_USB ON
+-- QL_APP_FEATURE_HTTP_FOTA ON
+-- QL_APP_FEATURE_FTP_FOTA ON
+-- FEATURE JAMDET is disabled at core!
+-- QL_APP_FEATURE_JAMDET OFF
+-- QL_APP_FEATURE_SDMMC ON
+-- QL_APP_FEATURE_PWK ON
+-- FEATURE USBNET is disabled at core!
+-- QL_APP_FEATURE_USBNET OFF
+-- FEATURE FS_NAND_FLASH is disabled at core!
+-- QL_APP_FEATURE_FS_NAND_FLASH OFF
+-- FEATURE SFTP is disabled at core!
+-- QL_APP_FEATURE_SFTP OFF
+-- QL_APP_FEATURE_MXML ON
+-- QL_APP_FEATURE_EMBED_NOR_FLASH ON
+-- FEATURE CLOUDOTA is disabled at core!
+-- QL_APP_FEATURE_CLOUDOTA OFF
+-- QL_APP_FEATURE_HILINK ON
+-- FEATURE GPRS_DATA_TRANSFER is disabled at core!
+-- QL_APP_FEATURE_GPRS_DATA_TRANSFER OFF
+-- QL_APP_FEATURE_PSM ON
+-- FEATURE TP  is disabled at core!
+-- QL_APP_FEATURE_TP  OFF
+-- FEATURE ALIPAY_IOT_SDK is disabled at core!
+-- QL_APP_FEATURE_ALIPAY_IOT_SDK OFF
+-- FEATURE MAYILIAN  is disabled at core!
+-- QL_APP_FEATURE_MAYILIAN  OFF
+-- QL_APP_PACK_FILE ON @ components/ql-config/download/prepack/ql_prepack_tts_gps.json
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/ecn200u/out/8915DM_cat1_open_release
+
+[1/22] Building ASM object components/fs/fsmount/CMakeFiles/fs_partinfo.dir/partinfo.bin.S.obj
+[2/22] Linking C static library lib\libfs_partinfo.a
+[3/22] Building C object components/ql-application/Longi4G/CMakeFiles/ql_app_Longi4G.dir/Wrapper.c.obj
+[4/22] Building C object components/ql-application/Longi4G/CMakeFiles/ql_app_Longi4G.dir/uart_longi.c.obj
+[5/22] Building C object components/ql-application/Longi4G/CMakeFiles/ql_app_Longi4G.dir/DLMSProtocol.c.obj
+[6/22] Building C object components/ql-application/Longi4G/CMakeFiles/ql_app_Longi4G.dir/LongiMain.c.obj
+[7/22] Building C object components/ql-application/Longi4G/CMakeFiles/ql_app_Longi4G.dir/embed_nor_flash.c.obj
+[8/22] Generating lib/all_libs.a
+[9/22] Building C object components/ql-application/Longi4G/CMakeFiles/ql_app_Longi4G.dir/socket_demo.c.obj
+[10/22] Building C object components/ql-application/init/CMakeFiles/APPIMAG2_APP.dir/ql_init.c.obj
+[11/22] Linking C static library lib\libql_app_Longi4G.a
+[12/22] Linking C executable hex\boot2.elf
+[13/22] Linking C executable hex\fdl2.elf
+[14/22] Generating ../../hex/boot2.img.lzmar
+[15/22] Building ASM object components/bootloader/CMakeFiles/boot.dir/boot2.img.lzmar.S.obj
+[16/22] Linking C executable hex\examples\APPIMAG2_APP.elf
+[17/22] Linking C executable hex\boot.elf
+[18/22] Linking CXX executable hex\8915DM_cat1_open.elf
+[19/22] Generating hex/fdl1.sign.img, hex/fdl2.sign.img, hex/boot.sign.img, hex/8915DM_cat1_open.sign.img, hex/examples/APPIMAG2_APP.sign.img
+[20/22] Generating hex/appimg_flash_delete.pac
+[21/22] Generating ../../../hex/examples/APPIMAG2_APP.pac
+[22/22] Generating hex/8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac
+
+
+********************        PASS         ***********************
+**************   build ended successfully   ********************
+********************        PASS         ***********************
+
+
+ec200ucn_aa APPIMAG2 release NOVOLTE SINGLESIM 
+
+.\hex\8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac
+.\hex\8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac.d
+.\hex\8915DM_cat1_open.elf
+.\hex\8915DM_cat1_open.img
+.\hex\8915DM_cat1_open.map
+.\hex\8915DM_cat1_open.sign.img
+.\hex\appimg_flash_delete.pac
+.\hex\boot.elf
+.\hex\boot.img
+.\hex\boot.map
+.\hex\boot.sign.img
+.\hex\boot2.elf
+.\hex\boot2.img
+.\hex\boot2.img.lzmar
+.\hex\boot2.map
+.\hex\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus.img
+.\hex\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus_nvitem.bin
+.\hex\cat1_UIS8915DM_BB_RF_SS_NoVolte_cus_prepack.cpio
+.\hex\fdl1.elf
+.\hex\fdl1.img
+.\hex\fdl1.map
+.\hex\fdl1.sign.img
+.\hex\fdl2.elf
+.\hex\fdl2.img
+.\hex\fdl2.map
+.\hex\fdl2.sign.img
+.\hex\flash_test_fdl.elf
+.\hex\flash_test_fdl.img
+.\hex\flash_test_fdl.map
+.\hex\partinfo.bin
+30 File(s) copied
+        1 file(s) moved.
+        1 file(s) moved.
+C:\ecn200u\target\ec200ucn_aa_APPIMAG2\prepack\8915DM_cat1_open-cat1_UIS8915DM_BB_RF_SS_NoVolte_cus-release.pac
+        1 file(s) moved.
+.\target.cmake
+1 File(s) copied
+.\hex\examples\APPIMAG2_APP.elf
+.\hex\examples\APPIMAG2_APP.img
+.\hex\examples\APPIMAG2_APP.map
+.\hex\examples\APPIMAG2_APP.pac
+.\hex\examples\APPIMAG2_APP.sign.img
+.\hex\examples\APPIMAG2_APP_prepack.cpio
+6 File(s) copied
+
+total: text,rodata,data,bss,code,flash,ram
+       1701974,506138,9227,341606,2208112,2217339,350833
+size by library to outlib.csv ...
+size by object to outobj.csv ...
+size by section to outsect.csv ...
+        1 file(s) moved.
+        1 file(s) moved.
+        1 file(s) moved.
+
+Thu 06/29/2023
+START TIME:  12:51:28.29
+END TIME:    12:51:40.20
+

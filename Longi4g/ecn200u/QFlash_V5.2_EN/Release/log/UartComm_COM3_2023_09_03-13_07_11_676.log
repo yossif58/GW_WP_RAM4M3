@@ -1,0 +1,7 @@
+[2023-09-03 13:07:11:697] ===============================C:\ecn200u\QFlash_V5.2_EN\Release\QFlash_V5.2.exe
+[2023-09-03 13:08:34:232] Write: Call ClearCommError() fail, [ErrorCode: 0x00000006].
+[2023-09-03 13:08:34:232] Write: Call WriteFile() fail, [ErrorCode: 0x00000006].
+[2023-09-03 13:08:34:232] Write: Call ClearCommError() fail, [ErrorCode: 0x00000006].
+[2023-09-03 13:08:34:232] Write: Call WriteFile() fail, [ErrorCode: 0x00000006].
+[2023-09-03 13:08:34:232] Write: Call ClearCommError() fail, [ErrorCode: 0x00000006].
+[2023-09-03 13:08:34:232] Write: Call WriteFile() fail, [ErrorCode: 0x00000006].

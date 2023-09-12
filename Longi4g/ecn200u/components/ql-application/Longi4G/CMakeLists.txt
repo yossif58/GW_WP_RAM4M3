@@ -1,0 +1,32 @@
+# Copyright (C) 2020 QUECTEL Technologies Limited and/or its affiliates("QUECTEL").
+# All rights reserved.
+#
+
+set(target ql_app_Longi4G)
+
+add_library(${target} STATIC)
+set_target_properties(${target} PROPERTIES ARCHIVE_OUTPUT_DIRECTORY ${out_app_lib_dir})
+target_compile_definitions(${target} PRIVATE OSI_LOG_TAG=LOG_TAG_QUEC)
+target_include_directories(${target} PUBLIC inc)
+target_link_libraries(${target} PRIVATE ql_app_peripheral)
+#target_link_libraries(${target} PRIVATE ql_api_common)
+
+target_sources(${target} PRIVATE
+	LongiMain.c 
+	uart_longi.c
+	embed_nor_flash.c
+	crc.c
+#	gsm.c
+	wrapper.c
+	dlmsprotocol.c
+	dlmscrc.c
+#	Longi_virt_at.c
+	socket_demo.c
+	sms_demo.c
+	gpio_int_demo.c
+	dlmspush.c
+)
+
+
+relative_glob(srcs include/*.h src/*.c inc/*.h)
+beautify_c_code(${target} ${srcs})

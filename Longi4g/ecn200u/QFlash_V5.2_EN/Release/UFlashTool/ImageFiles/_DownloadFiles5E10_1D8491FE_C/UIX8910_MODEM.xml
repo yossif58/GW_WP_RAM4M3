@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BMAConfig>
+	<ProductList>
+		<Product name="UIX8910_MODEM">
+			<SchemeName>UIX8910_MODEM</SchemeName>
+			<RebootByAT>1</RebootByAT>
+			<FlashTypeID>1</FlashTypeID>
+			<Mode>0</Mode>
+			<NVBackup backup="0"/>
+			<Chips enable="0">
+				<ChipItem id="0x2222" name="L2"/>
+				<ChipItem id="0x7777" name="L7"/>
+			</Chips>
+		</Product>
+	</ProductList>
+	<SchemeList>
+		<Scheme name="UIX8910_MODEM">
+			<File>
+				<ID>HOST_FDL</ID>
+				<IDAlias>HOST_FDL</IDAlias>
+				<Type>HOST_FDL</Type>
+				<Block>
+					<Base>0x8000c0</Base>
+					<Size>0xff40</Size>
+				</Block>
+				<Flag>1</Flag>
+				<CheckFlag>1</CheckFlag>
+				<Description>HOST_FDL</Description>
+			</File>
+			<File>
+				<ID>FDL2</ID>
+				<IDAlias>FDL2</IDAlias>
+				<Type>FDL2</Type>
+				<Block>
+					<Base>0x810000</Base>
+					<Size>0x30000</Size>
+				</Block>
+				<Flag>1</Flag>
+				<CheckFlag>1</CheckFlag>
+				<Description>FDL2</Description>
+			</File>
+			<File>
+				<ID>APPIMG</ID>
+				<IDAlias>APPIMG</IDAlias>
+				<Type>CODE</Type>
+				<Block>
+					<Base>0x60250000</Base>
+					<Size>0x110000</Size>
+				</Block>
+				<Flag>1</Flag>
+				<CheckFlag>0</CheckFlag>
+				<Description>APPIMG</Description>
+			</File>
+			<File>
+				<ID>PREPACK</ID>
+				<IDAlias>PREPACK</IDAlias>
+				<Type>CODE</Type>
+				<Block>
+					<Base>0xfe000004</Base>
+					<Size>0x0</Size>
+				</Block>
+				<Flag>1</Flag>
+				<CheckFlag>0</CheckFlag>
+				<Description>PREPACK</Description>
+			</File>
+		</Scheme>
+	</SchemeList>
+</BMAConfig>

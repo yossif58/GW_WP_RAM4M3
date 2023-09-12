@@ -1,0 +1,43 @@
+// this is taken from powker file when parsing incomming message from dlms message byte 9 of message 
+
+switch (control)
+{
+     // Longi New Connection
+     case 0x0A:
+         message.Message = $"LongiNewConnection >> Rx >>: {GXCommon.ToHex(rxData, true)}";
+         GetDeviceAddress(rxData, out deviceAddress);
+         message.Address = deviceAddress;
+         Logger.LogDebug(message);
+         LongiNewConnection(rxData: rxData, server: server, senderInfo: e.SenderInfo);
+         break;
+     // Longi Heartbeat
+     case 0x0C:
+         message.Message = $"LongiHeartbeat >> Rx >>: {GXCommon.ToHex(rxData, true)}";
+         GetDeviceAddress(rxData, out deviceAddress);
+         message.Address = deviceAddress;
+         Logger.LogDebug(message);
+         LongiHeartbeat(rxData: rxData, server: server, senderInfo: e.SenderInfo);
+         break;
+     // General Data Notification
+     case 0x0F:
+         message.Message = $"GeneralDataNotification >> Rx >>: {GXCommon.ToHex(rxData, true)}";
+         Logger.LogDebug(message);
+         GeneralDataNotification(rxData: rxData, senderInfo: e.SenderInfo); break;
+     // General Event Notification
+     case 0xC2:
+         message.Message = $"GeneralEventNotifcation >> Rx >>: {GXCommon.ToHex(rxData, true)}";
+         Logger.LogDebug(message);
+         GeneralEventNotifcation(rxData: rxData, senderInfo: e.SenderInfo); break;
+     // General Global Encrypted Data
+     // Currently HPL Implementation Only
+     case 0xDB:
+         message.Message = $"HPLEncryptedNotification >> Rx >>: {GXCommon.ToHex(rxData, true)}";
+         Logger.LogDebug(message);
+         HPLEncryptedNotification(rxData: rxData, server: server, senderInfo: e.SenderInfo);
+         break;
+     // Unexpected Data
+     default:
+         message.Message = $"Unknown Message Received >>\nRx >> {GXCommon.ToHex(rxData, true)}";
+         Logger.LogInformation(message);
+         break;
+}

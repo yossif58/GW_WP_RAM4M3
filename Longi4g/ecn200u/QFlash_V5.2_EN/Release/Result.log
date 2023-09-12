@@ -1,0 +1,40 @@
+----------------------------------------------------------
+new log session
+date:				11/28/20
+time:				15:04:43
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress ON
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device ON
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM32F302x8 Port=USB ProgMode=SWD
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file D:\38-QDM002-NA\QDM002_NC_CAN_V1.0.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Erasing PROGRAM MEMORY
+  Mass Erasing device...
+  Blank Checking device...
+
+<<< Erasing PROGRAM MEMORY succeeds
+
+>>> Programming PROGRAM MEMORY
+Programming skipped from address 0x8004000 to 0x8007FFF because trying to program erased value
+Programming skipped from address 0x8008000 to 0x800BFFF because trying to program erased value
+Programming skipped from address 0x800C000 to 0x800FFFF because trying to program erased value
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+==> Reset done, device Running...
+<<< Verifying PROGRAM MEMORY succeeds

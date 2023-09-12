@@ -1,0 +1,5 @@
+[2023-08-08 17:21:09:734] ===============================C:\ecn200u\QFlash_V5.2_EN\Release\QFlash_V5.2.exe
+[2023-08-08 17:21:11:763] Write: Call GetOverlappedResult() fail, [ErrorCode: 0x00000079].
+[2023-08-08 17:21:13:778] Write: Call GetOverlappedResult() fail, [ErrorCode: 0x00000079].
+[2023-08-08 17:21:15:805] Write: Call GetOverlappedResult() fail, [ErrorCode: 0x00000079].
+[2023-08-08 17:21:17:826] Write: Call GetOverlappedResult() fail, [ErrorCode: 0x00000079].

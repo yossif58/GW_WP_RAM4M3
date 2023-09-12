@@ -1,0 +1,38 @@
+<NotepadPlus>
+    <Project name="LONGI4G_PROG">
+        <Folder name="inc">
+            <File name="components\ql-application\Longi4G\inc\crc.h" />
+            <File name="components\ql-application\Longi4G\inc\longi4g.h" />
+            <File name="components\ql-application\Longi4G\inc\LongiWrapper.h" />
+            <File name="components\ql-application\Longi4G\inc\longi_nor_flash.h" />
+            <File name="components\ql-application\Longi4G\inc\longi_uart.h" />
+            <File name="components\ql-application\Longi4G\inc\ql_uart.h" />
+            <File name="components\ql-application\Longi4G\inc\ql_virt_at_demo.h" />
+            <File name="components\ql-application\Longi4G\inc\sms_demo.h" />
+            <File name="components\ql-application\Longi4G\inc\socket_demo.h" />
+            <File name="components\ql-application\Longi4G\inc\utils.h" />
+        </Folder>
+        <File name="components\ql-application\Longi4G\CMakeLists.txt" />
+        <File name="components\ql-application\Longi4G\crc.c" />
+        <File name="components\ql-application\Longi4G\DLMScrc.c" />
+        <File name="components\ql-application\Longi4G\DLMSProtocol.c" />
+        <File name="components\ql-application\Longi4G\embed_nor_flash.c" />
+        <File name="components\ql-application\Longi4G\LongiMain.c" />
+        <File name="components\ql-application\Longi4G\new 1.txt" />
+        <File name="components\ql-application\Longi4G\new 2.txt" />
+        <File name="components\ql-application\Longi4G\sms_demo.c" />
+        <File name="components\ql-application\Longi4G\socket_demo.c" />
+        <File name="components\ql-application\Longi4G\uart_longi.c" />
+        <File name="components\ql-application\Longi4G\utils.c" />
+        <File name="components\ql-application\Longi4G\Wrapper.c" />
+        <File name="india4g.log" />
+        <Folder name="quectel_stack">
+            <File name="components\ql-application\init\CMakeLists.txt" />
+            <File name="components\ql-application\init\ql_init.c" />
+            <File name="components\ql-application\ql_app_feature_config.h.in" />
+            <File name="components\ql-application\ql_app_feature_config.cmake" />
+        </Folder>
+        <File name="components\ql-application\Longi4G\gpio_int_demo.c" />
+        <File name="components\ql-application\Longi4G\DlmsPush.c" />
+    </Project>
+</NotepadPlus>

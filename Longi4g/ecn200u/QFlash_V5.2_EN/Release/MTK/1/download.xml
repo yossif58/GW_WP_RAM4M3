@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cflashtool-config version="1.0">
+    <general>
+        <connect-args timeout_ms="3600000" com_port_type="USB-PCIE" com_port_name="" conn_stage="2nd DA" baud_rate="" version="1.0">
+            <flash-xml>D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\download_agent\flash.xml</flash-xml>
+            <auth-file></auth-file>
+            <cert-file></cert-file>
+        </connect-args>
+        <runtime-parameter checksum_level="1" log_channel="UART" system_os="WINDOWS" da_log_level="DEBUG" battery_status="0" version="1.0"/>
+        <!--log_on: log switch, enable log if true, otherwise false;
+			log_path: the directory in which the log files has been stored;
+			clean_hours: the time setting to delete log files regularly, the unit is hours.-->
+        <log-info log_path="C:\ProgramData\C_FT_Logs" clean_hours="720" version="1.0"/>
+    </general>
+    <commands>
+        <LIFE-CYCLE-STATUS version="1.0">
+            <target-file file_type="MEMORY_FILE" file_name="" version="1.0"/>
+        </LIFE-CYCLE-STATUS>
+        <WRITE-PARTITIONS version="1.0">
+            <source-file file_type="LOCAL_FILE" file_name="D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\MT6880_openwrt_scatter.xml" version="1.0"/>
+            <flash_list>
+                <pt name="preloader">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\preloader_evb6880v1_datacard.bin</pt>
+                <pt name="mcf1">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\MCF_OTA_1.img</pt>
+                <pt name="mcf2">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\MCF_OTA_2.img</pt>
+                <pt name="md1img">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\modem.img</pt>
+                <pt name="md1dsp">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\dsp.bin</pt>
+                <pt name="spmfw">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\spmfw.img</pt>
+                <pt name="dpm_1">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\dpm.img</pt>
+                <pt name="dpm_2">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\dpm.img</pt>
+                <pt name="sspm_1">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\sspm.img</pt>
+                <pt name="sspm_2">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\sspm.img</pt>
+                <pt name="mcupm_1">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\mcupm.img</pt>
+                <pt name="mcupm_2">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\mcupm.img</pt>
+                <pt name="lk">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\lk.img</pt>
+                <pt name="lk2">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\lk.img</pt>
+                <pt name="tee1">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\tee.img</pt>
+                <pt name="tee2">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\tee.img</pt>
+                <pt name="boot">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\boot.img</pt>
+                <pt name="rootfs">D:\31-MTK-5G\MT6880\mt6880\evb6880v1_datacard\root.squashfs</pt>
+            </flash_list>
+        </WRITE-PARTITIONS>
+        <REBOOT action="DISCONNECT" version="1.0"/>
+    </commands>
+</cflashtool-config>

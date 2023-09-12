@@ -1,0 +1,24 @@
+/************************************************************************************
+*																					*
+* FILE NAME:																		*
+*   DLMSPuse.c																		*
+*																					*
+* DESCRIPTION:																		*
+*   This file contains all routines for the dlms push protocol for longi meters     *
+* HISTORY																			*
+*   Ferlandes Yossi																	*
+* - CREATION      																	*
+*   Yossi Ferlandes 04/09/23  								            			*
+*                                                                                   *
+************************************************************************************/
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
+#include "ql_api_osi.h"
+#include "ql_log.h"
+#include "ql_osi_def.h"
+#include "longi4g.h"
+#include "socket_demo.h"
+#include "LongiWrapper.h"
+#pragma pack(1)
