@@ -20,7 +20,7 @@
 #include "utils.h"
 #include "LongiWrapper.h"
 #pragma pack(1)
-// test5
+
 #define MAX_METERS_IN_LOOK_UP_TABLE 2000   // This value should be fine tuned in future
 long long MeterLookUpTable[MAX_METERS_IN_LOOK_UP_TABLE];
 
